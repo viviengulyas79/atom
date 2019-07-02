@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="git_add">
+    <title>git-add</title>
+    <body>
+        <p>
+            <codeblock>git add [--verbose | -v] [--dry-run | -n] [--force | -f] [--interactive | -i] [--patch | -p]
+	  [--edit | -e] [--[no-]all | --[no-]ignore-removal | [--update | -u]]
+	  [--intent-to-add | -N] [--refresh] [--ignore-errors] [--ignore-missing] [--renormalize]
+	  [--chmod=(+|-)x] [--] [&lt;pathspec>…​]</codeblock>
+        </p>
+        <p>This command updates the index using the current content found in the working tree, to
+            prepare the content staged for the next commit. It typically adds the current content of
+            existing paths as a whole, but with some options it can also be used to add content with
+            only part of the changes made to the working tree files applied, or remove paths that do
+            not exist in the working tree anymore.</p>
+    </body>
+</topic>
