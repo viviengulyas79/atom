@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_wph_rdv_g3b">
+    <title>How to push to a remote repo</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p><codeph>git-add</codeph> adds file contents to the index For more details, see <xref
+                    href="https://git-scm.com/docs/git-add" format="html" scope="external"/>.</p>
+        </context>
+    </taskbody>
+</task>
