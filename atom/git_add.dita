@@ -14,5 +14,6 @@
             existing paths as a whole, but with some options it can also be used to add content with
             only part of the changes made to the working tree files applied, or remove paths that do
             not exist in the working tree anymore.</p>
+        <p><xref href="http://www.example.com/" format="html" scope="external">Looka looka!</xref></p>
     </body>
 </topic>
